@@ -27,7 +27,7 @@ helped test the clock's timezone function and confirmed it worked.
 ## **Features**
 
 ### JavaScipt
-- The script I created has 2 functions that organise and run the two main asspects of the page. The first function is for the working clock and the second is for the timezone the user is in. 
+The script I created has 2 functions that organise and run the two main asspects of the page. The first function is for the working clock and the second is for the timezone the user is in. 
 
 ### HTML and CSS
 Basic, simply to follow and effective. My goal was to create effective and clean code in the shortest possible code. This optimization is a skill I am learning and this project begins this operation. 
