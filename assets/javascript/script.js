@@ -1,3 +1,7 @@
+function loadPage(){
+    document("DOMContentLoaded");
+}
+
 function currentTime(){
     var date = new Date();
     var hours = date.getHours();
@@ -25,4 +29,11 @@ function currentTime(){
     
 }}
 
+function currentTimeZone(){
+    let timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        document.getElementById("location").innerText = timeZone;
+        document.getElementById("location").textContent = timeZone;
+}
+
 currentTime();
+currentTimeZone();

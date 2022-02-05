@@ -27,3 +27,9 @@ div {
     padding: 5px;
     font-size: 50px;
 }
+#location {
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
