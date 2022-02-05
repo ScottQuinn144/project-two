@@ -1,6 +1,6 @@
 # **Tell The Time**
 This simple yet effective clock tells you the current time and timezone you are in. 
-The `Tell The Time` web application is useful to everyone and is a fair representation of my limited yet expanding knowledge in Javascript. The set up is minimal to maximize loading speeds and useability. 
+The `Tell The Time` web application is useful to everyone and is a fair representation of my limited yet expanding knowledge in Javascript. The set up is minimal which allows for maximize loading speeds and useability. 
 
 ## **Testing**
 
@@ -27,10 +27,10 @@ helped test the clock's timezone function and confirmed it worked.
 ## **Features**
 
 ### JavaScipt
-- The script I created has 2 functions that organise and run the two main asspects of the page. 1 function is for the working clock and the other is for the timezone the user is in. 
+- The script I created has 2 functions that organise and run the two main asspects of the page. The first function is for the working clock and the second is for the timezone the user is in. 
 
 ### HTML and CSS
-Basic, simply to follow yet effective. My goal was to create effective and clean code in the shortest possible code. This optimization is a skill I am learning and this project begins this operation. 
+Basic, simply to follow and effective. My goal was to create effective and clean code in the shortest possible code. This optimization is a skill I am learning and this project begins this operation. 
 
 ## **Bugs**
 <ul>
@@ -44,17 +44,16 @@ Basic, simply to follow yet effective. My goal was to create effective and clean
 
 ## **Credits**
 
-### Topic Selection and Code Advice
  # NTI Gymnasium (Gothenburg Sweden) 
  The amazing staff and students who I work with everyday at this I.T school 
- helped me select the clock idea as a great first JavaScript project. 
+ helped me select the clock idea as a great first JavaScript project. I credit the school for topic selection and support when I was frustrated.
 
 # Code Institute
 This project is a projection of the learning material learnt on Code Institute's learning platfom. 
 
 ## **Disclaimer**
 
-This site was built for educational purposes only, all rights to teh title name or clock idea remain with the copyright owners. `Tell The Time` is a creation of the developer. 
+This site was built for educational purposes only, all rights to the title name or clock idea remain with the copyright owners. `Tell The Time` is a fictional creation of the developer. 
 
 Developer: Scott Quinn
 
