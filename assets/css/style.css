@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Supermercado One', cursive, sans-serif;
+    color: aqua;
+    font-size: 50px;
+    font-weight: lighter;
+    padding: 2px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Supermercado One', cursive, sans-serif;
+    color: aqua;
+    font-size: normal;
+    font-weight: lighter;
+    padding: 2px;
+}
+div {
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 50px;
+}
