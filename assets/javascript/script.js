@@ -1,6 +1,3 @@
-function loadPage(){
-    document("DOMContentLoaded");
-}
 
 function currentTime(){
     var date = new Date();
