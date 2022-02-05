@@ -5,9 +5,9 @@ The `Tell The Time` web application is useful to everyone and is a fair represen
 ## **Testing**
 
 HTML and CSS testing was done through `W3C` validators.
-JavaScipt testing was done via [JSHint](https://jshint.com/).
+JavaScipt testing was done via `JSHint`.
 
-- [Main Page](index.html) had has issues.
+- [Main Page](index.html) has issues.
 
 - [CSS stylesheet](assets/css/style.css) has no issues.
 
