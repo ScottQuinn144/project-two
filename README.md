@@ -1,6 +1,6 @@
 # **Tell The Time**
 This simple yet effective clock tells you the current time and timezone you are in. 
-The `Tell The Time` web application is useful to everyone and is a fair representation of my limited yet expanding knowledge in Javascript. The set up is minimal which allows for maximize loading speeds and useability. 
+The `Tell The Time` web application is useful to everyone and is a fair representation of my limited yet expanding knowledge in Javascript. The set up is minimal which allows for maximizing loading speeds and useability. 
 
 ## **Testing**
 
