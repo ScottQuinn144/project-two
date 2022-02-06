@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clock</title>
+    <title>Tell The Time</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
@@ -17,12 +17,26 @@
     <p>
        Your current time is:
     </p>
-    <div class="clock" id="display" onload="currentTime"></div>
+    <div class="clock" id="display" onload="currentTime">
+    </div>
     <p>Your current timezone is:</p>
-    <div id="location" onload="currentLocation"></div>
-<div id="button">
-    <button id="date" onclick="fullDate()">Click for today's date</button>
-</div>  
+    <div id="location" onload="currentLocation">
+    </div>
+    <p>Want to know the date?</p>
+    <div id="button">
+        <button id="date" onclick="fullDate()">Click for today's date</button>
+    </div>
+<div>
+    <h4>Try Using our Timer:</h4>
+    <div id="stopwatch">
+        00:00:00
+    </div>
+    <ul id="click" class="stopstart">
+        <li><button onclick="startTimer()">Start</button></li>
+        <li><button onclick="stopTimer()">Stop</button></li>
+        <li><button onclick="resetTimer()">Reset</button></li>
+    </ul>
+</div>
  <script src="assets/javascript/script.js"></script>
  <script src="https://kit.fontawesome.com/3904e20fc2.js" crossorigin="anonymous"></script>
 </body>

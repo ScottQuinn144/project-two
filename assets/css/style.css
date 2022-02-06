@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-.heading {
+.heading, h4 {
     text-align: center;
     font-family: 'Supermercado One', cursive, sans-serif;
     color: aqua;
@@ -35,8 +35,26 @@ div {
 
 #button {
     text-align: center;
-    color: cadetblue;
+    padding-top: 0;
+    
 }
-#date {
-    background-color: aqua;
+.startstop {
+    font-size: 100px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    
+}
+#click {
+    position: relative;
+    top: 55%;
+    left: 48.4%;
+    transform: translate(-51.6%, -45%);
+
+}
+#click li {
+    display: inline;
+    padding-left: 10px;
+
 }
