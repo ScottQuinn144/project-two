@@ -32,3 +32,12 @@ div {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
 }
+
+button {
+    text-align: center;
+    background-color: aquamarine;
+    color: cadetblue;
+    float: right;
+    margin-right: 45%;
+    margin-top: 10px ;
+}
