@@ -40,7 +40,8 @@ currentTimeZone();
 function fullDate(){
     var today = new Date();
     var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-    document.getElementById("date").onclick = alert(date);
+    document.getElementById("date").onclick.repeat = alert(date);
+    
     
 }
 
