@@ -33,11 +33,10 @@ div {
     font-size: 20px;
 }
 
-button {
+#button {
     text-align: center;
-    background-color: aquamarine;
     color: cadetblue;
-    float: right;
-    margin-right: 45%;
-    margin-top: 10px ;
+}
+#date {
+    background-color: aqua;
 }
