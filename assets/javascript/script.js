@@ -13,7 +13,7 @@ function currentTime(){
     
     if(hours > 12){
         hours = hours - 12;
-        session = "PM";
+        amOrPm = "PM";
     }
     
     hours = (hours < 10) ? "0" + hours : hours;
@@ -43,7 +43,7 @@ currentTimeZone();
 function fullDate(){
     var today = new Date();
     var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-    document.getElementById("date").onclick.repeat = alert(date);
+    document.getElementById("date").onclick.repeat = new Notification('The current date is ' + {date});
 }
 
 /* the timer*/
