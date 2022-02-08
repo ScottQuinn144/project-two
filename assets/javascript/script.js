@@ -43,7 +43,7 @@ currentTimeZone();
 function fullDate(){
     var today = new Date();
     var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-    document.getElementById("date").onclick.repeat = new Notification('The current date is ' + {date});
+    document.getElementById("date").onclick.repeat = alert('The current date is ' + date);
 }
 
 /* the timer*/
